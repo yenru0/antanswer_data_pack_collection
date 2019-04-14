@@ -1,0 +1,54 @@
+##$wil=30; recVal=0.78
+
+plan: (v)계획하다.
+camping trip: (n)캠핑 여행
+sounds fun: 재미있겠다
+not really: 딱히
+ballpark: (n)야구장
+by: (ad)~까지
+outdoor activities: (n)야외 활동
+get a haircut: 머리를 자르다
+go over lessons: (v)복습하다
+tidy up: (v)정리하다
+advice: (n)조언, 충고
+happen: (v)(사건이)일어나다
+truth: (n)진실
+focus on: (v)집중하다
+Lost and Found: (n)분실물 센터
+explain: (v)설명하다
+solve: (v)(문제를)풀다
+fall into: ~로 떨어지다
+toilet: (n)화장실
+messy: (a)지저분한, 더러운
+comments: (n)논평, 댓글
+due tomorrow: 내일까지
+catch up: 따라잡다
+take out: 포장하다
+decide: 결정하다
+put sth back; put ~ back; put - back; put something back: 뒤로 치우다
+look around: 둘러보다
+put away: 치우다.
+feel ready to: 준비가 되었다고 느끼다.
+bookshelf: (n)책장, 책꽂이
+get a call: 전화를 받다.
+get back home: 집에 도착하다.
+read through: 꼼꼼하게 읽다.
+turn on: (전기, 불을)켜다
+come across: 우연히 마주치다.
+
+article: (n)기사
+miss: (v)놓치다, 그리워하다
+leave: (v)떠나다, 남기다.
+    left: leave의 과거형; leave의 과거 분사형
+go online: 온라인에 접속하다
+end up -ing; end up v-ing: 결국 v-ing하게 되다.
+take back: (v)돌려주다.
+take off: ~를 벗다.
+put on: 입다.
+put out: (불을)끄다.
+block: (n)블럭
+city library: 시립 도서관
+Asian 12 Time Periods: 12간지
+get some rest: 쉬다
+see a doctor: 진료를 받다.
+hand in: 제출하다.

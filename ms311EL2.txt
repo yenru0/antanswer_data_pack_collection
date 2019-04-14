@@ -1,0 +1,67 @@
+##$wil=25
+
+culture: (n)문화
+everywhere: (ad)모든 곳에, 어디에서나
+curious: (a)궁금한, 호기심이 많은
+cook: (n)요리사
+accent: (n)억양, 말씨, 강세
+at first: 처음에는
+south: (n)남쪽, (ad)남쪽으로
+spicy: (a)양념 맛이 강한
+fortune: (n)운, 재산, 거금
+sure: (a)확신하는
+Ireland: (n)아일랜드
+    Irish: (a)아일랜드의, 아일랜드인의
+same here: 나도 마찬가지야
+dishes; dish: 설거짓 감, 접시, 요리
+space: 공간, 우주
+project: (n)과제, 프로젝트
+desert: (n)사막
+Antarctica: (n)남극 대륙
+PE; physical education: 체육
+pyramid: (n)피라미드
+republic: (n)공화국
+capital: (n)자본
+northern: (a)북부의, 북쪽에 위치한
+devide: 나누다
+    devide into ~; devide into: ~로 나누다
+keep: (v)유지하다.
+    kept: keep의 과거, 과거분사
+celebrate: (v)기념하다.
+parade: (n)퍼레이드
+###Irish: (위에 따로)
+give a lesson: 수업하다, 가르치다.
+get used to ~; get used to v-ing: ~하는 것에 익숙해지다. ### 대표적으로 ~ : v-ing
+little by little: 조금씩, 천천히
+united: (a)연합된, 통합된
+country: (n)국가, 시골
+past: (n)과거
+actually: (ad)사실, 실제로
+holiday: (n)휴일, 휴가
+silver: (a)은색의, 은으로 된
+dress: (v)옷을 입다.
+one of the 최상급 n-pl; one of the -superl pl-n; one of the 최상급 복수명사; one of the 최상급+복수명사: 가장 최상급한 것 중 하나
+traditional: (a)전통적인
+Gaelic football: 게일식 축구
+match: (n)경기, 성냥
+popular: (a)인기 있는
+B as well as A: A뿐만 아니라 B도
+exciting: (a)흥미진진한, 신나는
+loudly: (ad)큰소리로
+wave good-bye to; wave goodbye to: 작별인사로 손을 흔들다.
+get to know: 알게 되다.
+apology: (n)사과 ### not apple
+character: (n)성격, 특징, 문자, 기호
+environment: (n)환경
+once: (ad)한 번, 언젠가
+protect: (v)보호하다, 지키다.
+comic books: 만화책
+produce: (v)생산하다
+location: (n)장소, 위치
+speak: (v)말하다, 이야기하다.
+    spoke: speak의 과거
+    spoken: speak의 과거분사
+several: (a)몇몇의, 각각의
+national: (a)국가의, 전국적인
+visit: (v)방문하다.
+look good on ~: ~와 잘 어울리다.

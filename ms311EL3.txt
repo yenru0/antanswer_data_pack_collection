@@ -1,0 +1,70 @@
+##$wil=25
+
+need: (v)필요로 하다, ~해야 하다.
+hope: (v)바라다, 희망하다.
+near: (prep)거의, ~에서 가까이
+roll: (v)구르다, 굴러가다, 굴리다.
+wheel: (n)바퀴
+question: (n)질문
+inventor: (n)발명가
+    invention: (n)발명, 발명품
+grow up: 성장하다.
+save: (v)구하다, 저축하다, (돈을)모으다.
+danger: (n)위험, 위기
+    dangerous: (a)위험한
+volunteer: (n)자원 봉사자
+go abroad: 외국에 가다.
+someday: (ad)언젠가
+go on a trip: 여행을 가다.
+give a surprise party: 깜짝 파티를 열다.
+marathon: (n)마라톤
+nursing home: (n)양로원
+children's hospital: 아동 병원
+cooker: (n)조리 기구
+friendly: (a)친절한, 친한
+electricity: (n)전기
+straw: (n)빨대, 짚, 밀짚
+washing machine: (n)세탁기
+be poor at; be poor at ~: ~에 서투르다, ~을 못하다.
+    be good at; be good at ~: ~를 잘하다.
+go bad: 썩다, 나빠지다.
+pour: (v)붓다, 따르다.
+container: (n)그릇, 용기
+until: (prep)까지
+liquid: (n)액체
+evaporate: (v)증발하다.
+comfortable: (a)편안한, 편한
+allow: (v)허락하다, 허용하다
+communicate: (v)의사소통하다, 연락을 주고 받다.
+distance: (n)거리
+automobile: (n)자동차
+benefit: (v)이득을 얻다.
+thankfully: (ad)다행히도, 고맙게도
+especially: (ad)특히, 특별히
+come up with: 떠올리다, 제안하다
+lift: (v)들어올리다.
+look like ~: ~처럼 보이다.
+surprisingly: (ad)놀랍게도
+filter: (v)거르다, 여과하다.
+up to n; up to 명사: (명사)까지
+remove: (v)제거하다
+almost: (ad)거의
+virus: (n)바이러스, 병원체
+turn A into B: A를 B로 바꾸다.
+at any time: 언제든지
+according to; according to ~: ~에 따르면
+WHO; World Health Organization: 세계보건기구
+billion: (n)10억
+eyeglasses: (n)안경
+interestingly: (ad)흥미롭게도
+lens: (n)(광학도구)렌즈
+dial: (n)(조절장치)다이얼
+hopefully: (ad)바라건데, 희망컨데
+power of the lens: 렌즈의 배율
+cooler: (n)냉각기
+as a result: 결과적으로
+earthen: (a)흙으로 만든
+take away: 제거하다, 치우다.
+crop: (n)(농)작물
+
+
