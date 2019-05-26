@@ -1,0 +1,75 @@
+##$wil=25; rec_val = 0.8
+
+backpack: (n)가방, 배낭
+useful: (a)유용한
+    useless: (a)쓸모 없는
+lose: (v)지다, 잃어버리다.
+    lost: lose의 과거/과거분사
+match: (n)경기, 시합, 성냥.
+practice: (v)연습하다.
+interesting: (a)재미있는, 흥미로운
+carefully: (ad)조심히
+    careful: (a)조심하는
+stomach: (n)배, 복부
+hurt: (v)아프다, 다치다.
+    hurt: hurt의 과거/과거분사
+less: (ad)더 적게
+take medicine: 약을 먹다.
+spend: (v)(돈을)소비하다.
+    spent: spend의 과거/과거분사
+allowance: (n)용돈
+ask for: 요구[요청]하다, ~에 대해 묻다.
+fall down: 약하다[부족하다], 떨어지다.
+copy: (n)복사, 사본.
+uniform: (n)제복
+boring: (a)재미없는, 지루한, 심심한
+differently: (ad)다르게
+talented: (a)재능 있는
+    talent: (n)재능
+agree: (v)동의하다.
+look for: 찾다, 구하다.
+in that case: 그런 경우에는
+design: (n)디자인
+lead actor: (n)주연 배우
+allow: (v)허락하다.
+extra: (a)추가의, 여분의, (n)추가되는 것.
+cost: (v)(값이)들다.
+    cost: cost의 과거/과거분사.
+two-way; two way: (a)양면의, 쌍방의
+separate: (v)분리하다, 분리되다.
+consider: (v)고려하다.
+raise: (v)들어올리다, 올리다, 인상하다.
+run out of: ~을 다 써버리다.
+for example: 예를 들어
+mean: (v)의미하다.
+snacks: (n)간식
+chore: (n)집안일, 잡일, 허드렛 일
+wisely: (ad)현명하게
+    wise: (a)현명한
+
+waste: (v)낭비하다, (n)낭비, 쓰레기
+instead of: 대신에
+item: (n)항목, 물품.
+mark: (v)표시하다, (n)표시.
+want: (n)원하는 것, (v)원하다.
+need: (n)필요, 욕구, (v)~를 필요로 하다, 필요하다.
+teenager; teen: (n)10대, 십대
+get paid for: ~에 대해 돈을 받다.
+for a while: 잠시동안
+in the air: 공중에
+return: (v)돌아오다, 반납하다.
+ATM; Automated Teller Machine: (n)현금 자동 인출기.
+sweets: (n)사탕
+hold on; Hold on: 기다려
+bus rides: 버스 탑승
+matter: (n)문제, 일.
+desert island: 무인도
+bake: (v)굽다, 구워지다.
+meal: (n)식사, 끼니.
+vegetable: (n)채소, 야채
+bright: (a)밝은, 눈 부신
+stay up late: 늦게까지 깨어 있다.
+lower: (a)더 낮은
+hurry; hurry to: (v)서두르다, ~로 서둘러 가다.
+
+
