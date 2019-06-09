@@ -1,0 +1,43 @@
+##$ wil = 40; rec_val = 0.7
+shame on you: 부끄러운 줄 알아.
+suit yourself: 니 마음대로 해라.
+I'm at a loss; I am at a loss: 당혹스럽군\; 몸둘 바를 모르겠어.
+speak for yourself: 그건 네 생각이고
+chances are slim: 가능성이 적다.
+that's not what i said: 내가 말한 게 아닌데
+a little something for you: 약소하지만 줄 것이 있어.
+you bet; absolutely: 당연하지
+that's a lame joke; that's a corny joke: 썰렁하군
+don't spoil the mood; do not spoil the mood: 분위기 망치지 마\; 초 치지마.
+way to go; go for it: 파이팅!
+don't get technical; do not get technical: 어려운 말 하지마!
+why don't you mind your own business: 너나 잘해.
+don't hit my nerve: 내 성질 건들지마.
+thanks for the history lesson: 뒷북치지마.
+you are something else: 너 잘났다.
+he deserves it; it serves him right: 쌤통이다. #
+okay, you are the boss: 그래, 니 팔뚝 굵다.
+how could you do that to me: 어떻게 나한테 그럴 수 있니?
+it was long day; today is not my day: 힘든 하루였어.
+let's call it a day: 그만 일을 끝내자\; 퇴근하자\; 오늘은 그만하자.
+you can say that again: 지당한 말씀.
+get out of here: 꺼져!\; 말도 안돼!\; 농담하지마!
+sue me: 배 째.
+you should've kept quite: 가만히 있으면 중간이나 가지.
+don't go too far: 너무 오바하지마.
+you are my food: 넌 내 밥이야.
+put yourself in my shoes: 너도 내 입장이 되어봐.
+there's nothing to be sorry about: 미안해 할 것까지는 없어.
+##!finish
+there's no need to thank me: 내게 고마워할 것 까지는 없어.
+it couldn't be better than this: 이 보다 더 좋을 순 없다.
+you are so cheap: 너 정말 치사(비열)하다.
+this sucks: 이 것이 지겨워 죽겠어.
+life sucks: 인생이 왜 이럴까?\; 왜 이렇게 되는 일이 없지?
+that;s what you always do: 니가 하는 일이 다 그렇지 뭐.
+don't get me wrong: 오해하지 마세요.
+it's so outrageous i can't say word: 기가 막혀 말이 안 나오네.
+talk is cheap: 말이야 쉽지.
+do my eyes deceive me: 내가 헛것을 본건가?
+they are such a lovey-dovey couple: 그들은 닭살 커플이야.
+
