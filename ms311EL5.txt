@@ -1,0 +1,73 @@
+##$wil=25; rec_val = 0.8
+
+forever: (ad)영원히
+funny: (a)웃긴
+hang out with; hang out: ~와 어울리다
+interest: (n)흥미, 관심
+puppy: (n)강아지
+line: (n)대사
+play: (n)연극, (v)연극하다.
+disappointed: (a)실망스러운
+cheer up!; cheer up; Cheer up!; Cheer up: 힘내!
+seem: (v)~처럼 보이다.
+wall: (n)벽
+find out: 알아내다.
+upset: (a)화난, 속상한.
+borrow: (v)빌리다.
+take off: 돈을 깎다.
+pull: (v)당기다.
+treat: (v)다루다, 치료하다.
+no wonder: ~가 당연하다.
+contest: (n)대회, 경연.
+burn: 타다.
+    burnt: burn의 과거, 과거분사
+final: (n)결승.
+get a poor grade: 낮은 점수를 받다 .
+look silly: 우스꽝스럽게 보이다.
+amusement park: 놀이동산.
+get sick: 병이 나다.
+notice: (v)알아차리다.
+pay attention; pay attention to: ~에 주의를 기울이다.
+consider: (v)고려하다.
+situation: (n)상황.
+instead: (ad)~대신에
+handle: (v)다루다.
+behind: (prep)~뒤에
+unfair: (a)불공평한
+decide: (v)결정하다.
+whether: (conj)~인지 아닌지
+friendship: (n)우정
+make up: 지어내다, 꾸며내다.
+if: (conj)~인지 아닌지
+care about: 돌보다.
+worry; worry: (v)걱정시키다.
+    worried: (uc)걱정하다.
+alone: (ad)홀로
+friendly: (a)친근한, 친절한
+comfortable: (a)편안한
+    uncomfortable: (a)불편한
+usual: (a)흔한
+    unusual: (a)흔하지 않은
+important: (a)중요한
+    unimportant: (a)중요하지 않은
+tight: (a)단단한
+dish: (n)요리, 접시
+already: (ad)이미, 벌써
+be full of: ~로 가득 차다.
+advice: (n)충고
+there lived: ~에 살고 있었다.
+suddenly: (ad)갑자기
+cause: (v)일으키다, 야기하다.
+terrible: (a)끔찍한
+during: (prep)~하는 동안에
+possible: (a)가능한
+    impossible: (a)불가능한
+arrive: (v)도착하다.
+feel better: 기분이 좋아지다.
+clearly: (ad)분명히, 뚜렷하게
+bored: (a)지루해하는
+
+notice: to become aware of (something or someone) by seeing, hearing, etc.
+cause: to make (something) happen or exist.
+dish: the food served in a dish.
+make up: to create or invent (a story, a lie, etc.)
