@@ -1,0 +1,86 @@
+### start -- 
+traveler: (n)여행자
+    travel: (v)여행하다.
+go hiking: 등산하다.
+exciting: (a)신나는, 흥미진진한
+historical: (a)역사적인, 역사상의
+historic: (a)역사에 남을 만한
+in my opinion: 내 생각에는
+waste: (n)낭비, 쓰레기.
+used to v; used to 동사원형: v 하고 했다, 한때는 v 이었다.
+ride: (v)타다.
+    rode: ride의 과거형.
+    ridden: ride의 과거분사형.
+scary: (a)무서운
+scare: (v)겁주다.
+snail: (n)달팽이
+tasty: (a)맛있는
+taste: (n)맛
+go on a school trip: 수학 여행을 가다.
+pond: (n)연못
+catch: (v)잡다.
+    caught: catch의 과거, 과거분사형.
+anything: 무엇, 아무것.
+else: (ad)또(그 밖의) 다른
+feed: (v)먹이를 주다
+    fed: feed의 과거, 과거분사형.
+climb: (v)올라가다.
+try: (v)시도하다.
+tell a lie: 거짓말을 하다.
+stand in line: 줄을 서다.
+burrito: (n)버리토(옥수수 가루로 만든 tortilla에 고기, 콩 등을 싼 음식)
+grade: (n)학년, 등급, 성적.
+spicy: (a)매운, 향이 강한
+traditional: (a)전통의
+    tradition: (n)전통
+seafood: (n)해산물
+amazing: (a)놀라운, 대단한
+    amaze: (v)놀라게 하다.
+aquarium: (n)수족관
+eat out: 외식하다.
+online: (ad)온라인으로
+save: (v)아끼다, 절약하다.
+helpful: (a)도움이 되는
+hold a party: 파티를 열다.
+cheer up: 격려하다, 응원하다.
+mud: (n)진흙
+film: (n)영화, 필름.
+
+comfortable: (a)편안한, 안락한
+local: (a)현지의, 지역의
+custom: (n)관습, 전통, 풍습.
+unique: (a)독특한
+carbon footprint: (n)탄소 발자국
+go on a vacation: 휴가를 가다.
+take tours: 여행을 가다.
+economy: (n)경제
+following: (a)다음의, 이어지는
+bar: (n)막대
+be free of; be free of ~: ~으로 부터 자유롭다.
+spirit: (n)영혼
+wooden: (a)나무로 된
+be made of: ~으로 만들어지다.
+company: (n)회사
+resident: (n)주민, 거주자.
+benefit: (n)이점, 혜택.
+national: (a)국민의
+    nation: (n)국가.
+bean: (n)콩
+up close: 바로 곁에서
+on top of that: 그 외에도, 게다가
+fair trade: 공정 무역
+dynasty: (n)왕조
+hold: (v)개최하다.
+    held: hold의 과거, 과거분사형
+visit: (v)방문하다.
+visitor: (n)방문객
+face: (v) ~쪽으로 향하다.
+best-known: (a)가장 잘 알려진
+wonder: (n)경이로움
+
+company: a business organization that makes, buys, or sells goods or provides services in exchange for money.
+custom: an action or way of behaving that is usual and traditional among the people in a particular group or place.
+local: relating to or occurring inj a particular area, city or town.
+amazing: causing great surprise or wonder.
+
+
