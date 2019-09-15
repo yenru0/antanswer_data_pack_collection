@@ -1,0 +1,81 @@
+##$wil=30;recVal= 0.7
+treasure: (n)보물, 귀한 것
+wedding: (n)결혼(식)
+lay: (v)놓다, 두다
+    laid: lay의 과거, 과거 분사
+Safavid: 사파위 왕조
+which: (n)어느 것, (a)어느 것의
+better: (a, ad)더 좋은, 더 잘; good, well의 비교급
+prefer A to B: B보다 A를 선호한다(좋아한다).
+would like to v: v 하고 싶다.
+talk about ~; talk about: ~에 대해 얘기하다.
+though: (conj)비록 ~이긴 하지만
+wealth: (n)부
+    wealthy: (a)부유한
+quite: (ad)꽤, 상당히
+actually: (ad)사실
+as: (prep)~로서
+kind of; kinds of: 약간, 어느정도
+go up to: ~에게 다가가다.
+nervous: (a)긴장한
+text: (v)문자를 보내다.
+search for ~: ~를 찾다.
+modern: (a)현대의
+    ancient: (a)고대의
+move on to: ~으로 넘어가다.
+information: (n)정보
+    inform: (v)알리다.
+palace: (n)궁궐
+story: (n)이야기, 층
+invent: (v)발명하다
+    invention: (n)발명
+statue: (n)조각상
+tower: (n)탑
+self-portrait: 자화상
+work: (n)작품
+abroad: (ad)해외로
+document: (n)문서, 서류
+preserve: (v)보존하다.
+    preservation: (n)보존
+effort: (n)노력
+protect: (v)보호하다.
+    protection: (n)보호
+be known as: ~으로 알려지다.
+pass away: 돌아가시다(죽다).
+fortune: (n)재산, 행운
+rule: (v)통치하다, (n)규칙
+
+remain: (v)(떠나지 않고)남다.
+later: (a)(~보다)후의, 뒤의
+generation: (n)세대
+celadon: (a)청자(색)의
+collector: (n)수집가
+    collect: (v)수집하다.
+offer: (v)제안하다.
+    offered: offer의 과거, 과거 분사
+give up: 포기하다.
+be forced to: ~하도록 강요받다.
+dealer: (n)중개 상인
+UNESCO; United Nations Educational, Scientific and Cultural Organization: 유네스코(국제연합교육과학문화기구)
+Memory of the World: 세계기록유산
+a great number of; a number of: 상당수의, 많은
+priceless: (a)귀중한, 소중한
+make money: 돈을 벌다.
+through: ~을 통하여
+cultural: (a)문화의
+    culture: (n)문화
+care about: ~에 신경 쓰다.
+National Museum: 국립박물관
+give off: 배출하다, 발산하다.
+pollute: (v)오염시키다.
+    pollution: (n)오염
+wall painting: 벽화
+from now on: 지금부터
+in good condition: 좋은 상태로
+take up: 차지하다.
+
+effort: work done by the mind or body
+generation: a group of people born and living during the same time
+abroad: in or to a foreign country
+statue: a figure usually of a person or animal that is made from stone, metal, etc
+
